@@ -5,8 +5,9 @@
 }
 
 body{
-    background-color: antiquewhite;
-    color: black;
+    /* background-color: antiquewhite; */
+    color: white;
+    background-image: url(001.webp);
     padding-top: 30px;
     /* font-size: ;   */
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
